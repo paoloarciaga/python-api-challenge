@@ -2,7 +2,7 @@
 
 This repo consists of two deliverables, WeatherPy and VacationPy. 
 
-WeatherPy
+## WeatherPy
 I used the OpenWeatherMap API to retrieve weather data from the cities list generated in the code. I’ve created a series of scatter plots to showcase the following relationships:
 - Latitude vs. Temperature
 - Latitude vs. Humidity
@@ -19,7 +19,7 @@ Then I computed the linear regression for each of those relationships. I separat
 - Northern Hemisphere: Wind Speed vs. Latitude
 - Southern Hemisphere: Wind Speed vs. Latitude
 
-VacationPy
+## VacationPy
 I used the Geoapify API and the geoViews Python library to create two map visualizations, which can be found as the attached screenshots in this repo. 
 
 For this assignment, I 
