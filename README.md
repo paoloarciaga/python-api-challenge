@@ -22,5 +22,4 @@ Then I computed the linear regression for each of those relationships. I separat
 ## VacationPy
 I used the Geoapify API and the geoViews Python library to create two map visualizations, which can be found as the attached screenshots in this repo. 
 ---
-
 For this assignment, I applied the skills acquired from class to develop my initial code. Additionally, I consulted my tutor for further assistance, aiming to ensure I properly add a .gitignore file in order to not publicly display my API keys. 
